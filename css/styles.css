@@ -1380,6 +1380,7 @@ p{
 		height: 303px;
 		overflow: hidden;
     	transition: height 1s 0.5s ease-out;
+        transition: height 1s 0.5s ease-out;
 	}
 
 	.header_mobile .header__close {
@@ -1473,6 +1474,10 @@ p{
         flex-wrap: wrap;
         width: 431px;
         justify-content: center;
+    }
+
+    .intro__slider_arrow {
+        display: none;
     }
 
     .intro__slider_btn {
