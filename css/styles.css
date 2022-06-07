@@ -272,7 +272,7 @@ p{
 
 .featurers__subtite-color {
     color: #bc4595;
-    margin-bottom: 35px;
+    margin-bottom: 20px;
     width: 639px;
 }
 
@@ -287,8 +287,7 @@ p{
     display: flex;
     max-width: 1180px;
     margin: 0 auto;
-    justify-content: end;
-    margin-top: -81px;
+    margin-top: -88px;
 }
 
 .featurers__btn {
