@@ -187,6 +187,7 @@ p{
     justify-content: space-between;
     align-items: center;
     padding-top: 100px;
+    max-width: 1311px;
 }
 
 .intro__slider_title {
@@ -195,6 +196,10 @@ p{
     color: #ffffff;
     width: 1007px;
     margin-right: 125px;
+}
+
+.slider_arrow-right {
+    margin-left: 23px;
 }
 
 .intro__slider_btn {
