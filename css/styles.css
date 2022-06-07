@@ -552,6 +552,7 @@ p{
 
 .color-title {
     color: #232649;
+    display: block;
 }
 
 .constructions__cards {
