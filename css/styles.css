@@ -1755,6 +1755,12 @@ p{
         padding-top: 8px;
     }
 
+    .triangle-bottom {
+        border-left: 60px solid transparent;
+        border-right: 60px solid transparent;
+        border-top: 22px solid #0a473d;
+    }
+
     .contactForm__text {
         font-size: 1.4rem;
         margin-top: 20px;
